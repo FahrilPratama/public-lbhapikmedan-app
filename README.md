@@ -1,1 +1,1 @@
-# public-lbhapikmedan-app
+# Aplikasi Desktop LBH APIK Medan
